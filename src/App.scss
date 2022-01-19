@@ -58,9 +58,11 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgba(247, 247, 247, 0.6);
 }
 
 .login-modal { 
+  background-color: white;
   display: flex;
   width: 600px;
   height: 480px;
