@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/study-log/static/css/main.2ef56af6.css",
+    "main.js": "/study-log/static/js/main.65c21de3.js",
+    "index.html": "/study-log/index.html",
+    "main.2ef56af6.css.map": "/study-log/static/css/main.2ef56af6.css.map",
+    "main.65c21de3.js.map": "/study-log/static/js/main.65c21de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef56af6.css",
+    "static/js/main.65c21de3.js"
+  ]
+}
